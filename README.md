@@ -5,7 +5,7 @@
 
 Save-Load Patch for Game `みらくる超パーティー 早苗と天子の幻想迷宫 PLUS.G.` on PC
 
-<img width="650" src="https://user-images.githubusercontent.com/20459298/233093333-1746bb7a-6e71-453c-a973-80b7fa64d0a1.png" />
+![image](https://user-images.githubusercontent.com/20459298/233093333-1746bb7a-6e71-453c-a973-80b7fa64d0a1.png)
 
 After downloading the patch archive, simply extract it into the game directory. This patch comes with built-in transcoding functionality, so there's no need to install an external transcoder.
 
@@ -14,6 +14,8 @@ Important usage notes:
 - However, if you want to save mid-level, you need to exit the game normally before saving, then click “Resume” to continue playing.
 
 The patch also includes modifications for HP, hunger, strength, and money, along with a locking feature—please use these functions with caution.
+
+![image](https://github.com/user-attachments/assets/70081849-f5d8-4a4e-b29d-d321d790cd5c)
 
 ## Requirements
 For the game body, please download at [みらくる超パーティー 早苗と天子の幻想迷宮.rar](https://pan.baidu.com/s/1gdlnUMZ?pwd=vk8i) (Decompress pass: `7yzone`). The game body has not been licensed, and it is only for verifying my patch, please conscientiously delete it in 48 hours after verification.
