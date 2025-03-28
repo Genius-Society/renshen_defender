@@ -7,6 +7,14 @@ Save-Load Patch for Game `みらくる超パーティー 早苗と天子の幻�
 
 <img width="650" src="https://user-images.githubusercontent.com/20459298/233093333-1746bb7a-6e71-453c-a973-80b7fa64d0a1.png" />
 
+After downloading the patch archive, simply extract it into the game directory. This patch comes with built-in transcoding functionality, so there's no need to install an external transcoder.
+
+Important usage notes:
+- When you enter a new level and wish to save the initial state, you can save directly using the tool's save button without exiting the game normally.
+- However, if you want to save mid-level, you need to exit the game normally before saving, then click “Resume” to continue playing.
+
+The patch also includes modifications for HP, hunger, strength, and money, along with a locking feature—please use these functions with caution.
+
 ## Requirements
 For the game body, please download at [みらくる超パーティー 早苗と天子の幻想迷宮.rar](https://pan.baidu.com/s/1gdlnUMZ?pwd=vk8i) (Decompress pass: `7yzone`). The game body has not been licensed, and it is only for verifying my patch, please conscientiously delete it in 48 hours after verification.
 
