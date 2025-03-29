@@ -28,14 +28,9 @@ cd renshen_defender
 3. [DirectX](https://download.microsoft.com/download/1/7/1/1718CCC4-6315-4D8E-9543-8E28A4E18C4C/dxwebsetup.exe) required
 4. Make sure installation path is only composed of English or Japanese letters
 
-## Build
+## Debugging
 1. Clone the repo to local
 2. Install Microsoft Visual Studio 2010+
-3. Open _SL5.sln_ as admin
-4. Perform _Build_ action
-
-## Usage
-1. Download and decompress the game body package
-2. Download this patch
-3. Decompress patch to the decompressed game path
-4. Run _SL5.exe_ as admin
+3. Download and unzip the game body into `./SL5/bin/Debug`
+4. Open _SL5.sln_ as admin
+5. Perform build action
