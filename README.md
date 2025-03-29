@@ -33,4 +33,4 @@ cd renshen_defender
 2. Install Microsoft Visual Studio 2010+
 3. Download and unzip the game body into `./SL5/bin/Debug`
 4. Open _SL5.sln_ as admin
-5. Perform build action
+5. Perform _build_ action
