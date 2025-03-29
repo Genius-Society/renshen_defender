@@ -1,7 +1,7 @@
 # Renshen Defender SL5
 [![license](https://img.shields.io/github/license/Genius-Society/renshen_defender.svg)](https://github.com/Genius-Society/renshen_defender/blob/master/LICENSE)
 [![Build status](https://img.shields.io/badge/build-passing-4dc81f)](https://ci.appveyor.com/project/Genius-Society/Renshen-Defender)
-[![itch](https://img.shields.io/badge/itch.io-Renshen_Defender_SL5-fa5c5c.svg)](https://genius-society.itch.io/renshen-defender-sl5)
+[![itch](https://img.shields.io/badge/release-itch.io-fa5c5c.svg)](https://genius-society.itch.io/renshen-defender-sl5)
 
 This is a save-load patch for game `みらくる超パーティー 早苗と天子の幻想迷宫 PLUS.G.` on Windows PC.
 
@@ -16,6 +16,12 @@ The patch also includes modifications for HP, hunger, strength, and money, along
 
 ![](https://img.itch.zone/aW1nLzIwNDY4MzQ2LnBuZw==/original/NsJoV7.png)
 
+## Download
+```bash
+git clone -b sl5 git@github.com:Genius-Society/renshen_defender.git
+cd renshen_defender
+```
+
 ## Requirements
 1. Compatible with Windows 7+
 2. Microsoft. NET Framework 3.5+ required
@@ -23,7 +29,7 @@ The patch also includes modifications for HP, hunger, strength, and money, along
 4. Make sure installation path is only composed of English or Japanese letters
 
 ## Build
-1. Clone the repo on GitHub
+1. Clone the repo to local
 2. Install Microsoft Visual Studio 2010+
 3. Open _SL5.sln_ as admin
 4. Perform _Build_ action
