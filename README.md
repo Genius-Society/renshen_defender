@@ -7,7 +7,7 @@ This is a save-load patch for game `みらくる超パーティー 早苗と天�
 
 ![](https://img.itch.zone/aW1nLzE4OTU4NDA1LnBuZw==/original/nctZzb.png)
 
-After downloading the patch archive, simply extract it into the game directory. This patch comes with built-in transcoding functionality, so there's no need to install an external transcoder. Important usage notes:
+This patch comes with built-in transcoding functionality, so there's no need to install an external transcoder. Important usage notes:
 
 - When you enter a new level and wish to save the initial state, you can save directly using the tool's save button without exiting the game normally.
 - However, if you want to save mid-level, you need to exit the game normally before saving, then click “Resume” to continue playing.
