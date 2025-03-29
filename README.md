@@ -34,3 +34,7 @@ cd renshen_defender
 3. Download and unzip the game body into `./SL5/bin/Debug`
 4. Open _SL5.sln_ as admin
 5. Perform _build_ action
+
+## Thanks
+- <https://www.aquastyle.org/miracho/top.html>
+- <https://www.cheatengine.org>
