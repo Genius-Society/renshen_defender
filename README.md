@@ -16,7 +16,7 @@ The patch also includes modifications for HP, hunger, strength, and money, along
 
 ![](https://img.itch.zone/aW1nLzIwNDY4MzQ2LnBuZw==/original/NsJoV7.png)
 
-## Download
+## Code download
 ```bash
 git clone -b sl5 git@github.com:Genius-Society/renshen_defender.git
 cd renshen_defender
