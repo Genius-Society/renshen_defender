@@ -1,5 +1,5 @@
 # Renshen Defender SL4
-[![license](https://img.shields.io/github/license/Genius-Society/renshen_defender)](https://github.com/Genius-Society/renshen_defender/blob/master/LICENSE)
+[![license](https://img.shields.io/github/license/Genius-Society/renshen_defender)](https://github.com/Genius-Society/renshen_defender/blob/sl4/LICENSE)
 [![Build status](https://img.shields.io/badge/build-passing-4dc81f)](https://ci.appveyor.com/project/Genius-Society/Renshen-Defender)
 [![itch](https://img.shields.io/badge/release-itch.io-fa5c5c.svg)](https://genius-society.itch.io/renshen-defender-sl4)
 
