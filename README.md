@@ -14,6 +14,8 @@ This patch comes with built-in transcoding functionality, so there's no need to 
 
 The patch also includes modifications for HP, hunger, strength, and money, along with a locking feature—please use these functions with caution.
 
+![](https://www.aquastyle.org/mirapa/img/20120521-195320.jpg)
+
 ## Code download
 ```bash
 git clone -b sl4 git@github.com:Genius-Society/renshen_defender.git
@@ -34,5 +36,5 @@ cd renshen_defender
 5. Perform _build_ action
 
 ## Thanks
-- <https://www.aquastyle.org/mirapa/mirapa_plus.html>
 - <https://www.cheatengine.org/>
+- <https://www.aquastyle.org/mirapa/mirapa_plus.html>
