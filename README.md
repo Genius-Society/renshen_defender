@@ -36,5 +36,5 @@ cd renshen_defender
 5. Perform _build_ action
 
 ## Thanks
-- <https://www.aquastyle.org/miracho/top.html>
 - <https://www.cheatengine.org>
+- <https://www.aquastyle.org/miracho/top.html>
